@@ -4,8 +4,8 @@ Written in February 2013, this is an improved version of my previous GunBound-in
 
 ## Improvements
 
-- Cannons position oscillates.
-- Their position can be adjusted: left player press 1 (2) to go left (right) and right player press 8 (9) to go left (right).
+- Cannons vertical position oscillates.
+- Their horizontal position can be adjusted: left player press 1 (2) to go left (right) / right player press 8 (9) to go left (right).
 - A tornado appears periodically (randomly could be better), its x position oscillates.
 - Canon speed and angle are set through horizontal bars (a slider could be more intuitive).
 - There is no energy dissipation (air resistance).
@@ -13,7 +13,7 @@ Written in February 2013, this is an improved version of my previous GunBound-in
 - Only gravitational forces are considered.
 - Life bars added.
  
-# Comments
+## Comments
 
 - Drawings and graphics use the Standard drawing library StdDraw.java, which may be deprecated (?).
 - Brief description on how to play should be added.
